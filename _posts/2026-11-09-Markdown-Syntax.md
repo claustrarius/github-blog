@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Markdown Syntax Description"
 date: 2026-11-09
 ---
 
